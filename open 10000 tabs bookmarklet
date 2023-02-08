@@ -1,0 +1,1 @@
+javascript:document.write("hi");for(var i = 0; i<100000; i++){open("google.com")};
